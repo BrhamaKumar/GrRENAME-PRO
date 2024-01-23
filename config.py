@@ -12,7 +12,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "demosaveforce")
 
 DB_NAME = os.environ.get("DB_NAME","cluster0")     
 
-DB_URL = os.environ.get("DB_URL","mongodb+srv://gitadevidevi053:Brhama025@cluster0.9rj57mi.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp")
+DB_URL = os.environ.get("DB_URL","mongodb+srv://zoey972897:yDLALohi1EugzN9F@cluster0.ifj2lkp.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
