@@ -10,7 +10,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "6763124124:AAEtLk_bprWNGmM2lUpoXPQCHArk
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "demosaveforce") 
 
-DB_NAME = os.environ.get("DB_NAME","cluster0")     
+DB_NAME = os.environ.get("DB_NAME","Cluster0")     
 
 DB_URL = os.environ.get("DB_URL","mongodb+srv://zoey972897:yDLALohi1EugzN9F@cluster0.ifj2lkp.mongodb.net/?retryWrites=true&w=majority")
  
